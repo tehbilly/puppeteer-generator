@@ -1,0 +1,15 @@
+{
+  "name": "puppeteer-generator",
+  "version": "1.0.0",
+  "description": "Very small express app to render images/PDFs via headless chrome",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "William McGann <contact@williammcgann.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "puppeteer": "^0.10.2"
+  }
+}
